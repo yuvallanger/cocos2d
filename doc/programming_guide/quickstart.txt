@@ -175,7 +175,7 @@ All our previous examples are non-interactive. They display something, but do no
 
 All layers are event handlers from the pyglet event framework. When a layer is being shown, its event handlers will be active. You can read more about pyglet events at `The pyglet Event Framework`_
 
-In this section we will build step by step the demo provided in `samples/handling_events.py`; this is a very simple cocos app which shows which keys are pressed, and reacts to mouse motion and clicks. Run the app before reading on te get a clearer idea of what we are trying to build.
+In this section we will build step by step the demo provided in `samples/handling_events.py`; this is a very simple cocos app which shows which keys are pressed, and reacts to mouse motion and clicks. Run the app before reading on to get a clearer idea of what we are trying to build.
 
 .. figure:: event_demo.py.png
 
